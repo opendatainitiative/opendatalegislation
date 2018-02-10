@@ -1,0 +1,9 @@
+_site
+.idea
+.project
+.sass-cache
+.settings/
+.jekyll-metadata
+Gemfile.lock
+.DS_Store
+.git/
