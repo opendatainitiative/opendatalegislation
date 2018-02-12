@@ -20,5 +20,5 @@ https://github.com/opendatainitiative/opendatalegislation/wiki
 
 # Publishing
 * We started by creating the index directly in the ODI website
-* Next if there are changes, once a week, the master branch opendatalegislation/index gets pushed into the master branch opendatainitiative.github.io/posts, master branch opendatalegislation/how-to and opendatalegislation/implementation get pushed  into master branch opendatainitiative.github.io/ root.
+* Next if there are changes, once a week, changes get tarballed and dropped into http://opendatainitiative.io/tarballs, and the master branch opendatalegislation/index gets pushed into the master branch opendatainitiative.github.io/posts, master branch opendatalegislation/how-to and opendatalegislation/implementation get pushed  into master branch opendatainitiative.github.io/ root.
 * Long term, we establish Continuous Delivery (CD) automation that deploys master on the established set schedule
