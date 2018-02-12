@@ -4,6 +4,16 @@ Many open data implementations are the result of good management and their polic
 # Project Details
 https://github.com/opendatainitiative/opendatalegislation/wiki
 
+# Release Management 
+* Create GitHub issues for features to be added to the project
+* Issues and pull requests in the backlog, moved to the sprint while being worked, and then to completed
+* Assign issues to milestones? Figure out how many milestones to releases...
+* Minor releases 0.2 through 0.13 every week with changes until the major release
+* Major release 1.0 scheduled for May2018 
+* Finalize release 2.0 planning in Jun2018
+* Major release 2.0 scheduled for Nov2018
+* Finalize release 3.0 planning in Dec2018
+
 # Working Together
 * Minor changes to existing files or new files that do not change the project significantly from the project editors, get merged
 * Major changes to the project or proposed changes from users without project rights, use a pull request so the project editors can review your proposed changes. For help on pull requests, go here https://help.github.com/articles/creating-a-pull-request/
