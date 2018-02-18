@@ -8,10 +8,11 @@
 * Statewide Uniform Accounting Procedures verses Municipal Independence
 * Publishing Data timing and frequency
 * Compliance with Quantity and Quality of Data ( 5 by 5)
-* Influence of other reporting standards
-* Audits
+* Influence of other reporting standards (Audits, CAFR)
 
-# Implementation
+# Terms
+
+# Leadership 
 * Open Data implementations require leadership. There must be an empowered, technically experienced individual or group to keep the open data law true to the policy ideals. Ohio has proposed a board, while California has proposed a data officer that reports to the governor. 
 * Data Board or Data Officer leadership is accountable for
   * Categories of records are public records by default. Need to set a baseline that all departments can start from.
@@ -25,6 +26,11 @@
 * An archivist or librarian is accountable for the data publishing. The publishing process must be transparent and not require data modification. 
 * Open Data Leadership sets the minimum quality, quantity, and frequency standards. The state departments and municipalities must at least mean the minimum to retain their certification and the ability to be published on the state open data portal. 
 * Audits and CAFR reporting TBD
+
+# State Standards verses Municipal Independence
+# Publishing
+# Quantity and Quality
+# Additional Reporting Standards
 
 # Implementation Costs and Savings
 * Review of likely impacts that can be used to justify open data legislation
@@ -40,4 +46,4 @@
   * identify example small Ohio municipalities that do not have standard financial systems
   * report the likely cost savings between implementing a one off financial system compared to a standardized financial system from above
   
-  **revision 0.1**
+  **revision 0.2**
