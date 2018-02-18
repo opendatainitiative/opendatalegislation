@@ -9,6 +9,7 @@
 * Publishing Data timing and frequency
 * Compliance with Quantity and Quality of Data ( 5 by 5)
 * Influence of other reporting standards (Audits, CAFR)
+* Customer Service
 
 # Terms
 
@@ -28,6 +29,11 @@
 * Audits and CAFR reporting TBD
 
 # State Standards verses Municipal Independence
+* Who owns the Data? The group creating the data
+  * Responsible to display
+  * The state provides aggregation and added value
+  * Who get called for errors?
+
 # Publishing
 # Quantity and Quality
 # Additional Reporting Standards
@@ -45,5 +51,13 @@
 * driving down the cost of local governments. The smaller municipalities have no buying power with vendors. As the larger organizations drive standardization, the smaller municipalities will benefit with options that did not exist before.
   * identify example small Ohio municipalities that do not have standard financial systems
   * report the likely cost savings between implementing a one off financial system compared to a standardized financial system from above
+
+# Customer Service
+* Treasury Office outreach going to city offices and conferences
+* Treasury office customer service focus
+* Longer term to benefit your customer
+* Organize city open data policies to bolster the state open data legislation
+* Outreach to sources of data is a big part of what they do. Education
+
   
   **revision 0.2**
