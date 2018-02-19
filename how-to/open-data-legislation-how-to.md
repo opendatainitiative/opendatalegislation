@@ -51,4 +51,4 @@ Many open data implementations are the result of good management and their polic
 1. Sunlight Foundation, Open Data Policy Guidelines, [https://sunlightfoundation.com/opendataguidelines/](https://sunlightfoundation.com/opendataguidelines/)
 1. Open Data Legislation meetings, panel discussion, Next Steps discussion, Ohio Treasury Office meeting, [https://opendatainitiative.github.io/events/2018-01-29-ohio-townhall/](https://opendatainitiative.github.io/events/2018-01-29-ohio-townhall/)
 
-**revision 0.1**
+**revision 0.2**
