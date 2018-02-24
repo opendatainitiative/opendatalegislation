@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /legislations
-title: Legislations
+permalink: /legislation
+title: Legislation
 ---
 
 # Open Data Legislation
