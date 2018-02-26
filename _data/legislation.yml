@@ -1,0 +1,72 @@
+# Example
+#-   title: "Multiple words require quotes"
+#    organization: United States, state, or city name
+#    session: date or number
+#    bill-number: number
+#    bill-text: URL 
+#    source: URL
+#    sponsors: names separated by commas
+#    past-legislation: html a href separated by commas 
+#    related-legislation: html a href separated by commas 
+#    introduced: date
+#    last-activity: date
+#    comments: "Describe the what is missing"
+#    review: URL
+#    public-default: value 0 to 10
+#    tech-standards: value 0 to 10
+#    accounting-standards: value 0 to 10
+#    metadata-standards: value 0 to 10
+#    annual-report: value 0 to 10
+#    bi-annual-meetings: value 0 to 10
+#    incentives: value 0 to 10
+#    passed-house: value 0 to 10
+#    passed-senate: value 0 to 10
+#    signed-law: value 0 to 10
+    
+-   title: "Improve transparency of public data"
+    organization: Ohio
+    session: GA132
+    bill-number: HB3
+    bill-text: /assets/doc/2017-02-01-ohio-ga132-hr3.pdf
+    source: https://openstates.org/oh/bills/132/HB3/
+    sponsors: "[Rep. Mike Duffey](https://openstates.org/oh/legislators/OHL000054/mike-duffey/) and [Rep. Christina Hagan](https://openstates.org/oh/legislators/OHL000134/christina-hagan/)"
+    past-legislation: https://openstates.org/oh/bills/130/HB321/; https://openstates.org/oh/bills/130/HB323/
+    related-legislation: https://openstates.org/oh/bills/132/HB40/
+    introduced: 1-Feb-2017
+    last-activity: 13-Dec-2017
+    comments: "Passed House Finance Committee Vote. Good outline of DataOhio board responsibilities, but missing details on the definition, e.g. Ability to export records in TXT format with recommended metadata headers, recommend accounting standards such as  utilizing the state accounting system and base common fields, and metadata at a minimum define the field headers for the accounting standard fields."
+    review: /legislation/2017-02-01-ohio
+    public-default: 10
+    tech-standards: 5
+    accounting-standards: 7
+    metadata-standards: 5
+    annual-report: 10
+    bi-annual-meetings: 10
+    incentives: 10
+    passed-house: 0
+    passed-senate: 0
+    signed-law: 0
+
+-   title: Establish State Government Expenditure Database
+    organization: Ohio
+    session: GA132
+    bill-number: HB40
+    bill-text: /assets/doc/2017-02-06-ohio-ga132-hr40.pdf
+    source: https://openstates.org/oh/bills/132/HB40/
+    sponsors: 
+    past-legislation: https://openstates.org/oh/bills/130/HB321/; https://openstates.org/oh/bills/130/HB323/
+    related-legislation: https://openstates.org/oh/bills/132/HB3/
+    introduced: 6-Feb-2017
+    last-activity: 6-Feb-2017
+    comments: Introduced
+    review: /legislation/2017-02-01-ohio
+    public-default: 10
+    tech-standards: 5
+    accounting-standards: 7
+    metadata-standards: 5
+    annual-report: 10
+    bi-annual-meetings: 10
+    incentives: 10
+    passed-house: 0
+    passed-senate: 0
+    signed-law: 0

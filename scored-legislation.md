@@ -25,25 +25,26 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
 		<th>Score Passed Senate</th>
 		<th>Score Signed Law</th>
 	</tr>
-{% for Name in site.data.alpha-legislation %}
+{% for name in site.data.legislation %}
+{% assign score = name.public-default | plus: name.tech-standards | plus: name.accounting-standards | plus: name.metadata-standards | plus: name.annual-report | plus: name.bi-annual-meetings | plus: name.incentives | plus: name.passed-house | plus: name.passed-senate | plus: name.signed-law | round: 1 %}
   <tr>
-  	<td width="06%" align="center">{{ Name.session }}</td>
-  	<td width="06%" align="center">{{ Name.bill-number }}</td>
-  	<td width="17%" align="center">{{ Name.title }}</td>
-  	<td width="06%" align="center">{{ Name.organization }}</td>
-  	<td width="05%" align="center">{{ Name.score }}</td>
-  	<td width="05%" align="center">{{ Name.public-default }}</td>
-  	<td width="05%" align="center">{{ Name.tech-standards }}</td>
-  	<td width="05%" align="center">{{ Name.accounting-standards }}</td>
-  	<td width="05%" align="center">{{ Name.metadata-standards }}</td>
-  	<td width="05%" align="center">{{ Name.annual-report }}</td>
-  	<td width="05%" align="center">{{ Name.bi-annual-meetings }}</td>
-  	<td width="05%" align="center">{{ Name.incentives }}</td>
-  	<td width="05%" align="center">{{ Name.passed-house }}</td>
-  	<td width="05%" align="center">{{ Name.passed-senate }}</td>
-  	<td width="05%" align="center">{{ Name.signed-law }}</td>
+  	<td width="06%" align="center">{{ name.session }}</td>
+  	<td width="06%" align="center">{{ name.bill-number }}</td>
+  	<td width="17%" align="center">{{ name.title }}</td>
+  	<td width="06%" align="center">{{ name.organization }}</td>
+  	<td width="05%" align="center">{{ score }}</td>
+  	<td width="05%" align="center">{{ name.public-default }}</td>
+  	<td width="05%" align="center">{{ name.tech-standards }}</td>
+  	<td width="05%" align="center">{{ name.accounting-standards }}</td>
+  	<td width="05%" align="center">{{ name.metadata-standards }}</td>
+  	<td width="05%" align="center">{{ name.annual-report }}</td>
+  	<td width="05%" align="center">{{ name.bi-annual-meetings }}</td>
+  	<td width="05%" align="center">{{ name.incentives }}</td>
+  	<td width="05%" align="center">{{ name.passed-house }}</td>
+  	<td width="05%" align="center">{{ name.passed-senate }}</td>
+  	<td width="05%" align="center">{{ name.signed-law }}</td>
   </tr>
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.4">revision 0.4</a>**
