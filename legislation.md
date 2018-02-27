@@ -27,12 +27,12 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 {% for name in site.data.legislation %}
 {% assign score = name.public-default | plus: name.tech-standards | plus: name.accounting-standards | plus: name.metadata-standards | plus: name.annual-report | plus: name.bi-annual-meetings | plus: name.incentives | plus: name.passed-house | plus: name.passed-senate | plus: name.signed-law | round: 1 %}
   <tr>
-  	<td width="15%" align="center">{{ name.session }}</td>
-  	<td width="15%" align="center">{{ name.bill-number }}</td>
-  	<td width="15%" align="center">{{ name.organization }}</td>
-  	<td width="15%" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
-  	<td width="15%" align="center">{{ name.last-activity }}</td>
-  	<td width="25%" align="center">{{ score }}</td>
+  	<td class="tablecolumn" align="center">{{ name.session }}</td>
+  	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
+  	<td class="tablecolumn" align="center">{{ name.organization }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.last-activity }}</td>
+  	<td class="tablecolumn" align="center">{{ score }}</td>
   </tr>
 {% endfor %}
 </table>

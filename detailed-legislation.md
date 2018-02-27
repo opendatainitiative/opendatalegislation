@@ -25,19 +25,19 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
 	</tr>
 {% for name in site.data.legislation %}
   <tr>
-  	<td width="07%" align="center">{{ name.session }}</td>
-  	<td width="07%" align="center">{{ name.bill-number }}</td>
-  	<td width="07%" align="center">{{ name.title }}</td>
-  	<td width="07%" align="center">{{ name.organization }}</td>
-  	<td width="17%" align="center">{{ name.review }}</td>
-  	<td width="07%" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
-  	<td width="07%" align="center"><a target="_blank" href="{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
-  	<td width="07%" align="center">{{ name.sponsors }}</td>
-  	<td width="07%" align="center">{{ name.past-legislation }}</td>
-  	<td width="07%" align="center">{{ name.related-legislation }}</td>
-  	<td width="07%" align="center">{{ name.introduced }}</td>
-  	<td width="07%" align="center">{{ name.last-activity }}</td>
-  	<td width="07%" align="center">{{ name.comments }}</td>
+  	<td class="tablecolumn" align="center">{{ name.session }}</td>
+  	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.title }}</td>
+  	<td class="tablecolumn" align="center">{{ name.organization }}</td>
+  	<td class="tablecolumn" align="center">{{ name.review }}</td>
+  	<td class="tablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn" align="center"><a target="_blank" href="{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn" align="center">{{ name.sponsors }}</td>
+  	<td class="tablecolumn" align="center">{{ name.past-legislation }}</td>
+  	<td class="tablecolumn" align="center">{{ name.related-legislation }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.introduced }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.last-activity }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.comments }}</td>
   </tr>
 {% endfor %}
 </table>
