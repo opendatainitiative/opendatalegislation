@@ -37,4 +37,4 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.41">revision 0.41</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.42">revision 0.42</a>**
