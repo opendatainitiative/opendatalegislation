@@ -5,9 +5,8 @@ Many open data implementations are the result of good management and their polic
 https://opendatainitiative.github.io/legislation
 
 # Project Details
-[Project Overview](https://github.com/opendatainitiative/opendatalegislation/wiki)
-
-[Project Issues to be Completed](https://github.com/opendatainitiative/opendatalegislation/issues)
+* [Project Overview](https://github.com/opendatainitiative/opendatalegislation/wiki)
+* [Project Issues to be Completed](https://github.com/opendatainitiative/opendatalegislation/issues)
 
 # Contributing
 1. Fork it (https://github.com/opendatainitiative/opendatalegislation/fork)
