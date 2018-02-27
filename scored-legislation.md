@@ -13,7 +13,7 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
 		<th>Bill Number</th>
 		<th>Title</th>
 		<th>Organization</th>
-		<th>Total Score</th>
+		<th>Total Score [100]</th>
 		<th>Score Public Default</th>
 		<th>Score Tech Standards</th>
 		<th>Score Accounting Standards</th>

@@ -21,7 +21,7 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 		<th>Organization</th>
 		<th>Bill Text</th>
 		<th>Last Activity</th>
-		<th>Score</th>
+		<th>Score [100]</th>
 	</tr>
 
 {% for name in site.data.legislation %}
