@@ -6,6 +6,7 @@ https://opendatainitiative.github.io/legislation
 
 # Project Details
 [Project Overview](https://github.com/opendatainitiative/opendatalegislation/wiki)
+
 [Project Issues to be Completed](https://github.com/opendatainitiative/opendatalegislation/issues)
 
 # Contributing

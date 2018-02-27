@@ -29,15 +29,15 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
   	<td width="07%" align="center">{{ name.bill-number }}</td>
   	<td width="07%" align="center">{{ name.title }}</td>
   	<td width="07%" align="center">{{ name.organization }}</td>
-  	<td width="14%" align="center">{{ name.review }}</td>
+  	<td width="17%" align="center">{{ name.review }}</td>
   	<td width="07%" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
   	<td width="07%" align="center"><a target="_blank" href="{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
-  	<td width="10%" align="center">{{ name.sponsors }}</td>
-  	<td width="10%" align="center">{{ name.past-legislation }}</td>
-  	<td width="10%" align="center">{{ name.related-legislation }}</td>
+  	<td width="07%" align="center">{{ name.sponsors }}</td>
+  	<td width="07%" align="center">{{ name.past-legislation }}</td>
+  	<td width="07%" align="center">{{ name.related-legislation }}</td>
   	<td width="07%" align="center">{{ name.introduced }}</td>
   	<td width="07%" align="center">{{ name.last-activity }}</td>
-  	<td width="14%" align="center">{{ name.comments }}</td>
+  	<td width="07%" align="center">{{ name.comments }}</td>
   </tr>
 {% endfor %}
 </table>
