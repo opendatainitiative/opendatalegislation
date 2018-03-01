@@ -143,17 +143,30 @@
     introduced: 21-May-2013
     last-activity: 9-May-2014
     comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
+    review: "By Sean Roberts 28 Feb 2018
+    
+    * No references to the data being public record. Only reference slightly similar has to do with this bill does not 'require disclosure to the public of information protected from disclosure under the Freedom of Information Act (FOIA) or information protected under the Privacy Act of 1974 or the Internal Revenue Code'.
+    * Not specific enough definition of what format the data is available in and or how it would be presented, e.g. 'widely-accepted common data elements and a widely-accepted, nonproprietary, searchable, platform-independent, computer-readable format'
+    * No specific reference to common accounting system of records or fields. 'government-wide data standards for financial data and provide consistent, reliable, and searchable government-wide spending data'
+    * Many references to the quality of the data being reported. Without metadata standards and specifics, it is likely every agency will have their own definition of their data headers.
+    * Good use of initial timeline where reporting on progress was established at 90 days from the bill's passage. After that, the reporting dates for the various reports that are required by the bill are not defined well.
+    * There are no specific meetings or discussions defined in this bill. It may be assumed that the various agencies that are required to report on progress will hold meetings to discuss their results. 
+    * There no incentives in this bill
+    
+    There are many references to data quality and 'holding federal agencies accountable for the completeness and accuracy of the data submitted'. Unfortunately, without more standards and specifics in the bill, each agency is allows to define their own version of quality.
+    
+    There is a good faith effort to keep the quanity of the open data transparency at a high level by including the agency data publishing requirement of 'not later than three years after the enactment of this Act and monthly, when practicable, but not less than quarterly thereafter'
+     "
+    public-default: 0
+    tech-standards: 7
+    accounting-standards: 3
+    metadata-standards: 3
+    annual-report: 5
+    bi-annual-meetings: 0
+    incentives: 0
+    passed-house: 10
+    passed-senate: 10
+    signed-law: 10
     
 -   title: "State Government - Open Data Policy - Council on Open Data"
     organization: Maryland
