@@ -31,7 +31,7 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
   	<td class="tablecolumn" align="center">{{ name.organization }}</td>
   	<td class="tablecolumn" align="center">{{ name.review }}</td>
   	<td class="tablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
-  	<td class="tablecolumn" align="center"><a target="_blank" href="{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn" align="center"><a target="_blank" href="{{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
   	<td class="tablecolumn" align="center">{{ name.sponsors }}</td>
   	<td class="tablecolumn" align="center">{{ name.past-legislation }}</td>
   	<td class="tablecolumn" align="center">{{ name.related-legislation }}</td>
