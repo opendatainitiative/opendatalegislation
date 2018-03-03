@@ -2,7 +2,7 @@
 layout: default
 title:  "Ohio Legislation Review"
 date:   2017-01-25 12:00 -0800
-categories: legislation
+categories: legislation-review
 ---
 By Sean Roberts and Frank Kohstall 25 Jan 2018
 
