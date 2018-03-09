@@ -4,6 +4,7 @@ title:  "California Legislation Review"
 date:   2017-02-28 12:00 -0800
 categories: legislation-review
 ---
+### {{ page.title }}
 By Sean Roberts 28 Feb 2018
     
 * Public records are required to be available for inspection, subject to certain exceptions, but are not required to be public by default.
