@@ -85,10 +85,10 @@
     comments: signed into law
     review: /legislation-review/2017-02-28-california-legislation-review/
     public-default: 0
-    tech-standards: 7
-    accounting-standards: 3
-    metadata-standards: 3
-    annual-report: 5
+    tech-standards: 10
+    accounting-standards: 0
+    metadata-standards: 0
+    annual-report: 0
     bi-annual-meetings: 0
     incentives: 0
     passed-house: 10
@@ -108,16 +108,16 @@
     last-activity: 9-May-2014
     comments: signed into law
     review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
+    public-default: 3
+    tech-standards: 3
+    accounting-standards: 3
+    metadata-standards: 0
+    annual-report: 5
+    bi-annual-meetings: 0
+    incentives: 0
+    passed-house: 10
+    passed-senate: 10
+    signed-law: 10
     
 -   title: "State Government - Open Data Policy - Council on Open Data"
     organization: Maryland
