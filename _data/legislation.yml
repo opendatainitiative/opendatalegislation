@@ -23,6 +23,30 @@
 #    passed-senate: value 0 to 10
 #    signed-law: value 0 to 10
     
+-   title: "Local government, public records, Internet"
+    organization: California
+    session: 2015-2016
+    bill-number: AB169
+    bill-text: http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB169
+    source: https://openstates.org/ca/bills/20152016/AB169
+    sponsors: Rep. Brian Maienschein
+    past-legislation: 
+    related-legislation: 
+    introduced: Jan 22, 2015
+    last-activity: 10-Oct-2015
+    comments: signed into law
+    review: /legislation-review/2018-02-28-california-legislation-review/
+    public-default: 0
+    tech-standards: 10
+    accounting-standards: 0
+    metadata-standards: 0
+    annual-report: 0
+    bi-annual-meetings: 0
+    incentives: 0
+    passed-house: 10
+    passed-senate: 10
+    signed-law: 10
+    
 -   title: "Department of Financial Services"
     organization: Florida
     session: 2018
@@ -46,6 +70,102 @@
     passed-house: 10
     passed-senate: 10
     signed-law: 0
+    
+-   title: "Relating To Open Data"
+    organization: Hawaii
+    session: 2013
+    bill-number: HB632
+    bill-text: /assets/doc/2013-07-09-hawaii-HB632.pdf
+    source: https://openstates.org/hi/bills/2013%20Regular%20Session/HB632/
+    sponsors: Rep. Clift Tsuji, Rep. Ken Ito, Rep. Marcus R. Oshiro, Rep. Calvin K.Y. Say, Gregg Takayama
+    past-legislation: 
+    related-legislation: 
+    introduced: 
+    last-activity: 9-Jul-2013
+    comments: signed into law
+    review: 
+    public-default: 
+    tech-standards: 
+    accounting-standards: 
+    metadata-standards: 
+    annual-report: 
+    bi-annual-meetings: 
+    incentives: 
+    passed-house: 
+    passed-senate: 
+    signed-law: 
+
+-   title: "Open Operating Standards Act"
+    organization: Illinois
+    session: 98th
+    bill-number: HB1040
+    bill-text: http://ilga.gov/legislation/fulltext.asp?DocName=09800HB1040enr&GA=98&SessionId=85&DocTypeId=HB&LegID=71487&DocNum=1040&GAID=12&Session=&print=true
+    source: https://openstates.org/il/bills/98th/HB1040/
+    sponsors: Rep. Michaell W. Tryon, Rep. Pamela J. Althoff
+    past-legislation: 
+    related-legislation: 
+    introduced: 
+    last-activity: 7-Mar-2014
+    comments: signed into law
+    review: 
+    public-default: 
+    tech-standards: 
+    accounting-standards: 
+    metadata-standards: 
+    annual-report: 
+    bi-annual-meetings: 
+    incentives: 
+    passed-house: 
+    passed-senate: 
+    signed-law: 
+    
+-   title: "State Government - Open Data Policy - Council on Open Data"
+    organization: Maryland
+    session: 2014
+    bill-number: SB644
+    bill-text: /assets/doc/2014-04-08-maryland-sb0644.pdf
+    source: https://www.congress.gov/bill/113th-congress/senate-bill/994
+    sponsors: Rep. William C Ferguson IV
+    past-legislation: 
+    related-legislation: 
+    introduced: 
+    last-activity: 8-Apr-2014
+    comments: signed into law
+    review: 
+    public-default: 
+    tech-standards: 
+    accounting-standards: 
+    metadata-standards: 
+    annual-report: 
+    bi-annual-meetings: 
+    incentives: 
+    passed-house: 
+    passed-senate: 
+    signed-law: 
+    
+-   title: "Relative to the use of open source software and open data formats by state agencies and relative to the adoption of a statewide information policy regarding open government data standards"
+    organization: New Hampshire
+    session: 2012
+    bill-number: HB418
+    bill-text: http://www.gencourt.state.nh.us/legislation/2012/HB0418.html
+    source: https://openstates.org/nh/bills/2012/HB418/
+    sponsors: Rep. Calvin D. Pratt, Rep. George A Lambert
+    past-legislation: 
+    related-legislation: 
+    introduced: 
+    last-activity: 12-Mar-2012
+    comments: signed into law
+    review: 
+    public-default: 
+    tech-standards: 
+    accounting-standards: 
+    metadata-standards: 
+    annual-report: 
+    bi-annual-meetings: 
+    incentives: 
+    passed-house: 
+    passed-senate: 
+    signed-law: 
     
 -   title: "Improve transparency of public data"
     organization: Ohio
@@ -95,30 +215,6 @@
     passed-senate: 0
     signed-law: 0
     
--   title: "Local government: public records: Internet"
-    organization: California
-    session: 2015-2016
-    bill-number: AB169
-    bill-text: http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB169
-    source: https://openstates.org/ca/bills/20152016/AB169
-    sponsors: Rep. Brian Maienschein
-    past-legislation: 
-    related-legislation: 
-    introduced: Jan 22, 2015
-    last-activity: 10-Oct-2015
-    comments: signed into law
-    review: /legislation-review/2018-02-28-california-legislation-review/
-    public-default: 0
-    tech-standards: 10
-    accounting-standards: 0
-    metadata-standards: 0
-    annual-report: 0
-    bi-annual-meetings: 0
-    incentives: 0
-    passed-house: 10
-    passed-senate: 10
-    signed-law: 10
-    
 -   title: "Digital Accountability and Transparency Act of 2014 or the DATA Act"
     organization: United States
     session: 113th Congress
@@ -142,30 +238,6 @@
     passed-house: 10
     passed-senate: 10
     signed-law: 10
-    
--   title: "State Government - Open Data Policy - Council on Open Data"
-    organization: Maryland
-    session: 2014
-    bill-number: SB644
-    bill-text: /assets/doc/2014-04-08-maryland-sb0644.pdf
-    source: https://www.congress.gov/bill/113th-congress/senate-bill/994
-    sponsors: Rep. William C Ferguson IV
-    past-legislation: 
-    related-legislation: 
-    introduced: 
-    last-activity: 8-Apr-2014
-    comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
     
 -   title: "Availability of Public Information Amendments"
     organization: Utah
@@ -191,30 +263,6 @@
     passed-senate: 
     signed-law: 
     
--   title: "Relating To Open Data"
-    organization: Hawaii
-    session: 2013
-    bill-number: HB632
-    bill-text: /assets/doc/2013-07-09-hawaii-HB632.pdf
-    source: https://openstates.org/hi/bills/2013%20Regular%20Session/HB632/
-    sponsors: Rep. Clift Tsuji, Rep. Ken Ito, Rep. Marcus R. Oshiro, Rep. Calvin K.Y. Say, Gregg Takayama
-    past-legislation: 
-    related-legislation: 
-    introduced: 
-    last-activity: 9-Jul-2013
-    comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
-    
 -   title: "State Data Portal Amendments"
     organization: Utah
     session: 2014
@@ -226,54 +274,6 @@
     related-legislation: 
     introduced: 
     last-activity: 27-Mar-2014
-    comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
-    
--   title: "Relative to the use of open source software and open data formats by state agencies and relative to the adoption of a statewide information policy regarding open government data standards"
-    organization: New Hampshire
-    session: 2012
-    bill-number: HB418
-    bill-text: http://www.gencourt.state.nh.us/legislation/2012/HB0418.html
-    source: https://openstates.org/nh/bills/2012/HB418/
-    sponsors: Rep. Calvin D. Pratt, Rep. George A Lambert
-    past-legislation: 
-    related-legislation: 
-    introduced: 
-    last-activity: 12-Mar-2012
-    comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
-    
--   title: "Open Operating Standards Act"
-    organization: Illinois
-    session: 98th
-    bill-number: HB1040
-    bill-text: http://ilga.gov/legislation/fulltext.asp?DocName=09800HB1040enr&GA=98&SessionId=85&DocTypeId=HB&LegID=71487&DocNum=1040&GAID=12&Session=&print=true
-    source: https://openstates.org/il/bills/98th/HB1040/
-    sponsors: Rep. Michaell W. Tryon, Rep. Pamela J. Althoff
-    past-legislation: 
-    related-legislation: 
-    introduced: 
-    last-activity: 7-Mar-2014
     comments: signed into law
     review: 
     public-default: 
