@@ -175,12 +175,12 @@
     bill-text: /assets/doc/2017-02-01-ohio-ga132-hr3.pdf
     source: https://openstates.org/oh/bills/132/HB3/
     sponsors: Rep. Mike Duffey, Rep. Christina Hagan
-    past-legislation: GA130-HB321, GA130-HB323
+    past-legislation: GA130-HB321, GA130-HB323, GA130-HB175, GA131-HB46
     related-legislation: GA132-HB40
     introduced: 1-Feb-2017
     last-activity: 13-Dec-2017
     comments: "Passed House Finance Committee Vote. Good outline of DataOhio board responsibilities, but missing details on the definition, e.g. Ability to export records in TXT format with recommended metadata headers, recommend accounting standards such as  utilizing the state accounting system and base common fields, and metadata at a minimum define the field headers for the accounting standard fields."
-    review: /legislation-review/2018-01-25-ohio-legislation-review/
+    review: /legislation-review/2018-01-25-ohio-hb3-legislation-review/
     public-default: 10
     tech-standards: 5
     accounting-standards: 7
@@ -196,15 +196,15 @@
     organization: Ohio
     session: GA132
     bill-number: HB40
-    bill-text: /assets/doc/2017-02-06-ohio-ga132-hr40.pdf
+    bill-text: /assets/doc/2017-02-06-ohio-ga132-hb40.pdf
     source: https://openstates.org/oh/bills/132/HB40/
     sponsors: 
-    past-legislation: GA130-HB321, GA130-HB323
+    past-legislation: GA130-HB321, GA130-HB323, GA130-HB175, GA131-HB46
     related-legislation: GA132-HB3
     introduced: 6-Feb-2017
     last-activity: 6-Feb-2017
-    comments: Introduced
-    review: /legislation-review/2018-01-25-ohio-legislation-review/
+    comments: Introduced to the Finance Committee
+    review: /legislation-review/2018-03-13-ohio-hb40-legislation-review/
     public-default: 10
     tech-standards: 5
     accounting-standards: 7
