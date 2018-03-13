@@ -23,6 +23,30 @@
 #    passed-senate: value 0 to 10
 #    signed-law: value 0 to 10
     
+-   title: "Department of Financial Services"
+    organization: Florida
+    session: 2018
+    bill-number: HR1073
+    bill-text: http://www.flsenate.gov/Session/Bill/2018/1073/BillText/er/PDF
+    source: https://openstates.org/fl/bills/2018/HB1073/
+    sponsors: Rep. Bill Hager
+    past-legislation: 
+    related-legislation: 
+    introduced: 21-Dec-2017
+    last-activity: 8-Mar-2018
+    comments: passed the house and senate
+    review: /legislation-review/2018-03-12-florida-legislation-review/
+    public-default: 10
+    tech-standards: 9
+    accounting-standards: 10
+    metadata-standards: 10
+    annual-report: 0
+    bi-annual-meetings: 0
+    incentives: 10
+    passed-house: 10
+    passed-senate: 10
+    signed-law: 0
+    
 -   title: "Improve transparency of public data"
     organization: Ohio
     session: GA132
@@ -263,26 +287,3 @@
     passed-senate: 
     signed-law: 
     
--   title: "Department of Financial Services"
-    organization: Florida
-    session: 2018
-    bill-number: HR1073
-    bill-text: http://www.flsenate.gov/Session/Bill/2018/1073/BillText/er/PDF
-    source: https://openstates.org/fl/bills/2018/HB1073/
-    sponsors: Rep. Bill Hager
-    past-legislation: 
-    related-legislation: 
-    introduced: 
-    last-activity: 8-Mar-2018
-    comments: passed the house and senate
-    review: /legislation-review/2018-03-12-florida-legislation-review/
-    public-default: 10
-    tech-standards: 9
-    accounting-standards: 10
-    metadata-standards: 10
-    annual-report: 0
-    bi-annual-meetings: 0
-    incentives: 10
-    passed-house: 10
-    passed-senate: 10
-    signed-law: 0
