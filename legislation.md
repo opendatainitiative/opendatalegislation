@@ -28,7 +28,7 @@ Review the <a href="/detailed-legislation">Detailed Existing Open Data Legislati
 {% for name in site.data.legislation %}
 {% assign score = name.public-default | plus: name.tech-standards | plus: name.accounting-standards | plus: name.metadata-standards | plus: name.annual-report | plus: name.bi-annual-meetings | plus: name.incentives | plus: name.passed-house | plus: name.passed-senate | plus: name.signed-law | round: 1 %}
   <tr>
-  	<td class="tablecolumn" align="center"><a target="_blank" href="{{ name.source }}">{{ name.session }}</a></td>
+  	<td class="tablecolumn" align="center">{{ name.session }}</td>
   	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
   	<td class="tablecolumn" align="center">{{ name.organization }}</td>
   	<td class="tablecolumn largetablecolumn" align="center"><a target="_blank" href="{{ name.review }}">{{ name.review }}</a></td>
@@ -39,4 +39,4 @@ Review the <a href="/detailed-legislation">Detailed Existing Open Data Legislati
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.6.1">revision 0.6.1</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.7.0">revision 0.7.0</a>**
