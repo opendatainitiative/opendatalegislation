@@ -14,3 +14,6 @@ https://opendatainitiative.github.io/legislation
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## License
+The underlying Jekyll source code that used to format and display content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php), the non-code text content displayed by Jekyll is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/), and code created by the project contributors is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
